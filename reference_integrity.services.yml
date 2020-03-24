@@ -1,0 +1,4 @@
+services:
+  plugin.manager.reference_integrity.policy:
+    class: Drupal\reference_integrity\ReferenceIntegrityPolicyPluginManager
+    parent: default_plugin_manager

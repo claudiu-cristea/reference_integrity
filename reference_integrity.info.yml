@@ -1,0 +1,4 @@
+type: module
+name: 'Reference Integrity'
+description: 'Ensures data integrity when a referenced entity is deleted.'
+core_version_requirement: ^8 || ^9

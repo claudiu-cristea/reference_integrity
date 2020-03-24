@@ -1,0 +1,12 @@
+field.field.*.*.*.third_party.reference_integrity:
+  type: mapping
+  label: 'Reference Integrity field settings'
+  mapping:
+    policy:
+      type: string
+      label: Policy
+      nullable: true
+    method:
+      type: string
+      label: Method
+      nullable: true

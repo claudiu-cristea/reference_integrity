@@ -1,0 +1,21 @@
+{
+  "name": "drupal/reference_integrity",
+  "description": "Ensures data integrity when a referenced entity is deleted.",
+  "type": "drupal-module",
+  "license": "GPL-2.0+",
+  "authors": [
+    {
+      "name": "Claudiu Cristea",
+      "email": "clau.cristea@gmail.com"
+    }
+  ],
+  "homepage": "https://drupal.org/project/reference_integrity",
+  "support": {
+    "issues": "https://drupal.org/project/issues/reference_integrity",
+    "source": "https://git.drupalcode.org/project/reference_integrity"
+  },
+  "require": {
+    "php": ">=7.1",
+    "drupal/core": "^8.8 || ^9.0"
+  }
+}
